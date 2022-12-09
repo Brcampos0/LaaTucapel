@@ -254,6 +254,12 @@ mark,
 	line-height: 1.77778;
 	letter-spacing: 0.03em;
 }
+.bigmac{
+	font-size: 17px;
+	line-height: 1.77778;
+	letter-spacing: 0.03em;
+	text-align: justify;
+}
 .big-dos{
 	font-size: 15px;
 	line-height: 1.77778;
@@ -4730,7 +4736,6 @@ p + p {
 
 h3 + .big, .heading-3 + .big {
 	margin-top: 15px;
-	text-align: center;
 }
 
 h3 + .row {
@@ -4752,7 +4757,6 @@ h4 + .big {
 
 .big + .big {
 	margin-top: 20px;
-	text-align: center;
 }
 
 @media (min-width: 1600px) {
@@ -6055,7 +6059,7 @@ html:not(.lt-ie10) .not-animated {
 	font-size: 20px;
 	line-height: 46px;
 	color: #ffffff;
-	background: #ecc101e5;
+	background: #be985f;
 	overflow: hidden;
 	text-align: center;
 	text-decoration: none;
@@ -6065,7 +6069,7 @@ html:not(.lt-ie10) .not-animated {
 
 .ui-to-top:hover {
 	color: #ffffff;
-	background: #970000;
+	background: #000000;
 	text-decoration: none;
 }
 
