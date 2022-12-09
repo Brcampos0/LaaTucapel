@@ -1932,7 +1932,7 @@ img {
 }
 .img-logo{
 	display: inline-block;
-	max-width: 65%;
+	max-width: 55%;
 	height: 80px;
 }
 
@@ -4725,8 +4725,7 @@ p + p {
 
 h3 + .big, .heading-3 + .big {
 	margin-top: 15px;
-	text-align: justify;
-	padding-left: 120px;
+	text-align: center;
 }
 
 h3 + .row {
@@ -4749,7 +4748,6 @@ h4 + .big {
 .big + .big {
 	margin-top: 20px;
 	text-align: center;
-	padding-left: 50px;
 }
 
 @media (min-width: 1600px) {
